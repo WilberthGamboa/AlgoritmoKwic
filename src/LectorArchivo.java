@@ -17,7 +17,7 @@ public class LectorArchivo {
         // Linked list para para guardar los datos
         LinkedList<String> palabrasExcluidas = new LinkedList<String>();
 
-        FileInputStream  archivo = new FileInputStream("palabras.txt");
+        FileInputStream  archivo = new FileInputStream("C:/Users/Wilberth/Desktop/tareaArqui/palabras.txt");
 
         InputStreamReader isr = new InputStreamReader(archivo, StandardCharsets.UTF_8);
 
