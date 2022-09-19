@@ -4,9 +4,9 @@
 
  ## Diagrama De clases 
 
- <img src="classDiagram/ClassDiagram.png"></img> 
+ <img src="ClassDiagram/ClassDiagram.png"></img> 
 
  ## Diagrama de secuencia
 
- <img src="classDiagram/SequenceDiagram.png"></img> 
+ <img src="ClassDiagram/SequenceDiagram.png"></img> 
 
